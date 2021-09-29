@@ -1,0 +1,15 @@
+let a=window;
+// a=window.alert("Alert!");
+// a=window.prompt("write your name here");
+// a=window.confirm("are you sure");
+// a=window.innerHeight;
+// a=window.innerWidth;
+// a=window.outerHeight;
+// a=outerWidth;
+// a=scrollX;
+// a=location.tostring();
+// a=location.href; 
+// location.href="https://www.codewithharry.com";
+a=history;
+// a=location.toString();
+console.log(a);
